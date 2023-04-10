@@ -1,6 +1,9 @@
 # archimedes
 Archimedes is a ChatGPT enabled app that gives teachers the ability to grade papers, generate lesson plans, and get feedback on papers. 
 
+![Alt text](screenshot.png "Archimedes App")
+
+
 # Running
 This is a React App and A Python Flask backend. You will need to ensure you have the right environment for React and Python development as well as the libraries needed. 
 
